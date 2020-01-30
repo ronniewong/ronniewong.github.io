@@ -4,7 +4,7 @@ title:  "My first website and post!"
 date:   2020-01-29 14:23:49 -0500
 categories: jekyll update
 ---
-Hello, this is my first post and first website. I've chosen to create a static generated site using Jekyll and pages.github.com.  This was more challenging thanI thought so I needed some help. I want to give shoutout to Justin Dennison for his help when I finally installed Jekyll and then said: "now what?"
+Hello, this is my first post and first website. I've chosen to create a static generated site using Jekyll and pages.github.com.  This was more challenging than I thought so I needed some help. I want to give shoutout to Justin Dennison forhis help when I finally installed Jekyll and then said: "now what?"
 
 Why a website?  Well I wanted to see if I could do it and thought about it as a way to catalog thoughts and anything I find interesting.  I'm a tech guy and have been teaching IT for many years but I have thoughts that I thought would be good to make sure that I had a place to store them.
 

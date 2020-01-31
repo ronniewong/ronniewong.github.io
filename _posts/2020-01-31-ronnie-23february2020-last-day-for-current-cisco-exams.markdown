@@ -4,7 +4,9 @@ title:  "Is 23 February 2020 is your exam deadline? You need an action plan!"
 date:   2020-01-31 14:32:49 -0500
 categories: blog post
 ---
-Many people have been pushing hard by studying and preparing for the current CCNA and CCNP exams because the last day of testing is 23 February 2020. To those that have near the finishing line. Keep Going! You still have about 2.5 weeks for serious hard study.  You need a plan more than just reading now. So what should we be doing. Here's 5 things to do with the pressure on your shoulders.
+Many people have been pushing hard by studying and preparing for the current CCNA and CCNP exams because the last day of testing is 23 February 2020. To those that have near the finishing line. Keep Going! You still have about 2.5 weeks for serious hard study.  You need a plan more than just reading now. So what should we be doing. Here's 6 things to do with the pressure on your shoulders.
+
+* If you haven't registered for your exam. Remember everyone is under the deadline. So if you take the exam in a heavily populated area, remember exam seat availability should not be the thing that keeps you from getting your CCNA or CCNP. Do it now!
 
 * Make sure you're doing subnetting every day. Work on different scenarios that you believe you can be tested on subnetting, including binary, CIDR notation, subnet mask, wildcard masks, hosts per network, number of networks...etc.
 
@@ -18,7 +20,6 @@ Many people have been pushing hard by studying and preparing for the current CCN
 
 * Keep a strict study schedule. In these last few weeks, a schedule is a must. As much as you can, realistically.  Study comes first if the exam is your goal.
 
-* Bonus...You better schedule your exam now.  Exam slot availability will start filling up now.
 
 Let me know what you think! email me: ronnie@itpro.tv
 

@@ -28,7 +28,7 @@ twitter_username: ronnie_ITProTV
 github_username:  ronniewong
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 

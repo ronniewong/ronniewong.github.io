@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "23 February 2020 is your exam deadline? You need a plan!"
+title:  "23 February 2020 is your deadline and you need a final plan"
 date:   2020-01-30 18:39:49 -0500
 categories: jekyll update
 ---

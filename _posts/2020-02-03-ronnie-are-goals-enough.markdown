@@ -1,15 +1,11 @@
 ---
 layout: post
 title:  "Are Goals Enough?"
-date:   2020-02-03 18:00:49 -0500
+date:   2020-02-04 18:00:49 -0500
 categories: blog post
 ---
 
-2020 is now a month old. Many people, groups, teams, departments, companies probably began talking about goals for 2020 near the end of 2019 but may not have actually set anything concrete until this past month. Individuals make resolutions; business make goals. I’ll not put my New Years resolutions out for you to mock and laugh at me. I will though speak about a great thing we do at ITProTV. We had a company meeting in that meeting we set out a theme for this year. This sets goals we want to achieve through an easy and fun way. I know this isn’t unique to just our company.
-
-But this year as we spoke of goals, I started to think about a question: “Are goals enough?” I was thinking, “is there anything we should be doing beside goals?” To my surprise, it was almost answered immediately. We started to talk about goals and outcomes.  As I listened to different team leaders talk about them, I realized that I wasn’t sure I actually understood the difference or could even articulate what the differences are between them. The line blurred as reports were presented. It’s not the fault of the presenters as much as maybe it was my attention and my focus. But I realized that we needed to understand them both.
-
-So later that week, it kept creeping into my mind so I decided to define them and then trying to formulate how to make the differentiation clear for myself as well as my team. After looking at definitions…I realized it’s wasn’t a definition I was after.
+At the beginning of each year, ITProTV has a company wide meeting wher we primarily set different goals for the different teams and announce them company wide. The result is that each team analyzes it's part and ultimately each team member sets his or her own goals. It is here I started to ask: "Are goals enough?"
 
 I was reminded about goals needing to be SMART goals (Specific, Measurable, Assignable, Realistic and Time-based--I know people have changed these over time). But the more I thought about those, the line between goals and outcomes became blurred again.  It was here though that I found something that was akin to what was bothering me about these concepts.
 

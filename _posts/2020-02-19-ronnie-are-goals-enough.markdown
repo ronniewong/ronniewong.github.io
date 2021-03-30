@@ -19,7 +19,7 @@ Goals that are Specific, Measurable, Attainble, Realistic and Time-based are not
 
 So, what do we need to consider when setting up your team for success.  We need put infront of our team that less quantifiable and the "more abstract objective" that I will call outcomes, the other twin.
 
-More on that in the follow up article.
+More on that in the follow up part 2 article.
 
 
 

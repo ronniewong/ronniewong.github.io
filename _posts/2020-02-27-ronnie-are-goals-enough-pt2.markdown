@@ -15,7 +15,7 @@ So, I came up with an acronym that I believe will help.  Outcomes should be HEAR
 * (R)eliable -- The outcome should be reliable.  That means that it's not only good for a day but valid until proven wrong, if ever proven wrong.  
 * (D)emonstrable -- An outcome should help me to be demonstrable.  It's not about proving how smart you are. It's more about can you do it called upon to do it?
 
-Take the time with your teams to define the outcomes you want to achieve in as much detail as time will allow. This will not be wasted time. Doing this, your team will hit their goals. They will focus the efforts based on results they already desire achieve and are motivated to doing it.
+Take the time with your team to define the outcomes you want to achieve in as much detail as time will allow. This will not be wasted time. Doing this, your team will hit their goals. They will focus the efforts based on results they already desire achieve and are motivated to doing it.
 
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
